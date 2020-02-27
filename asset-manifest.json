@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/clapper-marketing/static/css/main.4ebee669.chunk.css",
+    "main.js": "/clapper-marketing/static/js/main.e52903ab.chunk.js",
+    "main.js.map": "/clapper-marketing/static/js/main.e52903ab.chunk.js.map",
+    "runtime-main.js": "/clapper-marketing/static/js/runtime-main.66d59012.js",
+    "runtime-main.js.map": "/clapper-marketing/static/js/runtime-main.66d59012.js.map",
+    "static/js/2.2d6ef72e.chunk.js": "/clapper-marketing/static/js/2.2d6ef72e.chunk.js",
+    "static/js/2.2d6ef72e.chunk.js.map": "/clapper-marketing/static/js/2.2d6ef72e.chunk.js.map",
+    "index.html": "/clapper-marketing/index.html",
+    "precache-manifest.bdabb11844d8be7da9826273bc6e71c9.js": "/clapper-marketing/precache-manifest.bdabb11844d8be7da9826273bc6e71c9.js",
+    "service-worker.js": "/clapper-marketing/service-worker.js",
+    "static/css/main.4ebee669.chunk.css.map": "/clapper-marketing/static/css/main.4ebee669.chunk.css.map",
+    "static/js/2.2d6ef72e.chunk.js.LICENSE.txt": "/clapper-marketing/static/js/2.2d6ef72e.chunk.js.LICENSE.txt",
+    "static/media/demo.gif": "/clapper-marketing/static/media/demo.2232b069.gif",
+    "static/media/logo.svg": "/clapper-marketing/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66d59012.js",
+    "static/js/2.2d6ef72e.chunk.js",
+    "static/css/main.4ebee669.chunk.css",
+    "static/js/main.e52903ab.chunk.js"
+  ]
+}
