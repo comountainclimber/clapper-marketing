@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/clapper-marketing/precache-manifest.bdabb11844d8be7da9826273bc6e71c9.js"
+  "/clapper-marketing/precache-manifest.333e952e0ca22b36f81fa96335ae5cea.js"
 );
 
 self.addEventListener('message', (event) => {
