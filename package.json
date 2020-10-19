@@ -2,6 +2,7 @@
   "name": "clapper-marketing",
   "version": "0.1.0",
   "private": true,
+  "author": "comountainclimber",
   "homepage": "http://comountainclimber.github.io/clapper-marketing",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
